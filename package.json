@@ -13,7 +13,7 @@
     "electron_build": "electron-packager ./dist/ --platform=win32 --arch=x64 --icon=./src/assets/favicon.ico --overwrite"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "e-vue-contextmenu": "^0.1.3",
     "electron": "^6.0.4",
     "element-ui": "^2.11.1",
